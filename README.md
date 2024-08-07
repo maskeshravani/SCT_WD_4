@@ -1,5 +1,6 @@
 # SCT_WD_4
 **To Do List**
+
 A simple To Do List web-app, that lets you save your tasks locally.
 
 **To Do List**
@@ -13,6 +14,7 @@ mark tasks as done by clicking each task.
 Each task is saved using 'localStorage' API, so it won't get removed if the site is refreshed or closed. You can only remove tasks by deleting them. It allows you to store key-value pairs persistently in the user's browser.
 
 **HTML:**
+
 The HTML structure defines the layout of the web page.
 
 The section contains metadata and resources required for the page. It includes:
